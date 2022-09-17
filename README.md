@@ -3,7 +3,7 @@
 <!--
 **TRIPLE-ADE/TRIPLE-ADE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning Vanilla JavaScript
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: @Triple123A
 - 😄 Pronouns: ...
 - ⚡ Fun fact: I love the quote "do hard things"
--->
