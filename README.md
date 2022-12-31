@@ -5,11 +5,11 @@
 
 Here are some ideas to get you started: -->
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Building my portfolio and also some volunteer, personal development project 
 - 🌱 I’m currently learning Vanilla JavaScript
 - 👯 I’m looking to collaborate on Frontend Project 
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
+- 🤔 I’m looking for help with JavaScript, ReactJs
+- 💬 Ask me about: HTML, CSS, JavaScript
 - 📫 How to reach me: @Triple123A
-- 😄 Pronouns: ...
+- 😄 Pronouns: He
 - ⚡ Fun fact: I love the quote "do hard things"
