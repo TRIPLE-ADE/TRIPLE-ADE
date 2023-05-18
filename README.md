@@ -7,6 +7,11 @@ Here are some ideas to get you started: -->
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE37&vCenter=true&width=435&lines=Code+Enthusiast+;Pursuing+the+Path+of+Software+Dev)](https://git.io/typing-svg)
 
+## Badges: 
+  <a href="https://www.credly.com/badges/821aff7a-e97d-4de9-b1a5-e7ab9ef6f28c/public_url">
+    <img src="https://images.credly.com/size/680x680/images/36883a0e-6176-4e0a-8eb8-8df6e24305b8/image.png" width="50" alt="LinkedIn Badge"/>
+  </a>
+  
 ## :mailbox: Reach me:
 
  <div id="badges">
