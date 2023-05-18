@@ -4,7 +4,7 @@
 **TRIPLE-ADE/TRIPLE-ADE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7923D&vCenter=true&width=435&lines=Code+Enthusiast+%7C+Pursuing+the+Path+of+Software+Development" alt="Typing SVG" /></a>
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE37&vCenter=true&width=435&lines=Code+Enthusiast+;Pursuing+the+Path+of+Software+Dev)](https://git.io/typing-svg)
 
 ## :mailbox: Reach me:
 
@@ -35,6 +35,10 @@ Here are some ideas to get you started: -->
 </div>
 
 ## :fire: My GitHub Statistics :
+![TRIPLE-ADE's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRIPLE-ADE&show_icons=true&theme=default#gh-light-mode-only)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=TRIPLE-ADE&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
 
 [![Ashutosh's github activity graph](https://github-readme-activity-graph.cyclic.app/graph?username=TRIPLE-ADE&bg_color=1d1b1c&color=ff8c00&line=ff8f05&point=fbf9f9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 [![GitHub Streak](https://streak-stats.demolab.com?user=TRIPLE-ADE&theme=dark&border_radius=5)](https://git.io/streak-stats)
