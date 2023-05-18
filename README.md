@@ -13,3 +13,4 @@ Here are some ideas to get you started: -->
 - 📫 How to reach me: @Triple123A
 - 😄 Pronouns: He
 - ⚡ Fun fact: I love the quote "do hard things"
+[![GitHub Streak](https://streak-stats.demolab.com?user=TRIPLE-ADE&theme=dark&border_radius=5)](https://git.io/streak-stats)
