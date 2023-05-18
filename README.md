@@ -4,6 +4,7 @@
 **TRIPLE-ADE/TRIPLE-ADE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
+
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE37&vCenter=true&width=435&lines=Code+Enthusiast+;Pursuing+the+Path+of+Software+Dev)](https://git.io/typing-svg)
 
 ## :mailbox: Reach me:
