@@ -4,7 +4,7 @@
 **TRIPLE-ADE/TRIPLE-ADE** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started: -->
-I am Abdulrasheed Abdulsalam, a frontend developer(HTML, CSS, JavaScript, ReactJS, Tailwind Css)
+I am Abdulrasheed Abdulsalam, a Software Engineer(JavaScript, TypeScript, ReactJS, NextJS, C#, ASP.NET, Tailwind Css, Azure, Firebase, SQL)
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F7AE37&vCenter=true&width=435&lines=Code+Enthusiast+;Pursuing+the+Path+of+Software+Dev)](https://git.io/typing-svg)
 
@@ -32,14 +32,24 @@ I am Abdulrasheed Abdulsalam, a frontend developer(HTML, CSS, JavaScript, ReactJ
 
 ## :hammer_and_wrench: Languages and Tools :
 
+## :hammer_and_wrench: Languages and Tools :
+
 <div>
    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/js/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/> </a>
+  <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="TypeScript" width="40" height="40"/> </a>
   <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a>
+  <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original-wordmark.svg" alt="next.js" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/csharp/csharp-original.svg" title="C#" alt="C#" width="40" height="40"/> </a>
+  <a href="https://dotnet.microsoft.com/apps/aspnet" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" title="ASP.NET" alt="ASP.NET" width="40" height="40"/> </a>
+  <a href="https://firebase.google.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/firebase/firebase-plain-wordmark.svg" title="Firebase" alt="Firebase" width="40" height="40"/> </a>
+  <a href="https://www.sqlite.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/sqlite/sqlite-original-wordmark.svg" title="SQLite" alt="SQLite" width="40" height="40"/> </a>
   <a href="https://tailwindcss.com//" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
+  <a href="https://azure.microsoft.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/azure/azure-original-wordmark.svg" title="Azure" alt="Azure" width="40" height="40"/> </a>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height=""/> </a>
 </div>
+
 
 ## :fire: My GitHub Statistics :
 ![TRIPLE-ADE's GitHub stats](https://github-readme-stats.vercel.app/api?username=TRIPLE-ADE&show_icons=true&theme=default#gh-light-mode-only)
