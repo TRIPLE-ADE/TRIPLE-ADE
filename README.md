@@ -32,8 +32,6 @@ I am Abdulrasheed Abdulsalam, a Software Engineer(JavaScript, TypeScript, ReactJ
 
 ## :hammer_and_wrench: Languages and Tools :
 
-## :hammer_and_wrench: Languages and Tools :
-
 <div>
    <a href="https://www.w3schools.com/html/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" title="HTML5" alt="HTML" width="40" height="40"/> </a>
   <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-plain-wordmark.svg"  title="CSS3" alt="CSS" width="40" height="40"/> </a>
